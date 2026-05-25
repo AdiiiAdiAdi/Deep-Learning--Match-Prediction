@@ -1,0 +1,122 @@
+[
+  {
+    "feature_index": 80,
+    "feature_name": "static_feature_5",
+    "type": "static",
+    "importance": 0.014634146341463428
+  },
+  {
+    "feature_index": 0,
+    "feature_name": "seq_feature_0",
+    "type": "sequence",
+    "importance": 0.009756097560975618
+  },
+  {
+    "feature_index": 78,
+    "feature_name": "static_feature_3",
+    "type": "static",
+    "importance": 0.006504065040650486
+  },
+  {
+    "feature_index": 76,
+    "feature_name": "static_feature_1",
+    "type": "static",
+    "importance": 0.003252032520325243
+  },
+  {
+    "feature_index": 81,
+    "feature_name": "static_feature_6",
+    "type": "static",
+    "importance": 0.003252032520325243
+  },
+  {
+    "feature_index": 82,
+    "feature_name": "static_feature_7",
+    "type": "static",
+    "importance": 0.003252032520325243
+  },
+  {
+    "feature_index": 2,
+    "feature_name": "seq_feature_2",
+    "type": "sequence",
+    "importance": 0.001626016260162677
+  },
+  {
+    "feature_index": 19,
+    "feature_name": "seq_feature_19",
+    "type": "sequence",
+    "importance": 0.001626016260162677
+  },
+  {
+    "feature_index": 77,
+    "feature_name": "static_feature_2",
+    "type": "static",
+    "importance": 0.001626016260162677
+  },
+  {
+    "feature_index": 3,
+    "feature_name": "seq_feature_3",
+    "type": "sequence",
+    "importance": 0.0
+  },
+  {
+    "feature_index": 5,
+    "feature_name": "seq_feature_5",
+    "type": "sequence",
+    "importance": 0.0
+  },
+  {
+    "feature_index": 6,
+    "feature_name": "seq_feature_6",
+    "type": "sequence",
+    "importance": 0.0
+  },
+  {
+    "feature_index": 7,
+    "feature_name": "seq_feature_7",
+    "type": "sequence",
+    "importance": 0.0
+  },
+  {
+    "feature_index": 8,
+    "feature_name": "seq_feature_8",
+    "type": "sequence",
+    "importance": 0.0
+  },
+  {
+    "feature_index": 9,
+    "feature_name": "seq_feature_9",
+    "type": "sequence",
+    "importance": 0.0
+  },
+  {
+    "feature_index": 10,
+    "feature_name": "seq_feature_10",
+    "type": "sequence",
+    "importance": 0.0
+  },
+  {
+    "feature_index": 12,
+    "feature_name": "seq_feature_12",
+    "type": "sequence",
+    "importance": 0.0
+  },
+  {
+    "feature_index": 13,
+    "feature_name": "seq_feature_13",
+    "type": "sequence",
+    "importance": 0.0
+  },
+  {
+    "feature_index": 14,
+    "feature_name": "seq_feature_14",
+    "type": "sequence",
+    "importance": 0.0
+  },
+  {
+    "feature_index": 15,
+    "feature_name": "seq_feature_15",
+    "type": "sequence",
+    "importance": 0.0
+  }
+]
